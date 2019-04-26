@@ -1,0 +1,16 @@
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+alter PROCEDURE [dbo].[Proc_GetAllNews]
+
+AS
+BEGIN
+	select Title, Description, 'http://dnndev.me' + replace(TabPath, '//', '/') link from Tabs
+END
+GO
