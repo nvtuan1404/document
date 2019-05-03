@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  misa.sme.receiptandpayment:
+    image: ${DOCKER_REGISTRY-}misasmereceiptandpayment
+    build:
+      context: .
+      dockerfile: MISA.SME.ReceiptAndPayment/Dockerfile

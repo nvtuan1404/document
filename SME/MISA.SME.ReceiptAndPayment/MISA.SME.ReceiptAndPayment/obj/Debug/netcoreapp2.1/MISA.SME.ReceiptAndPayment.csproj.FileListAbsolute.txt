@@ -1,0 +1,74 @@
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.deps.json
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.json
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.dev.json
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csprojAssemblyReference.cache
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csproj.CoreCompileInputs.cache
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cache
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cs
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfoInputs.cache
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfo.cs
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorTargetAssemblyInfo.cache
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.deps.json
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.json
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.dev.json
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csprojAssemblyReference.cache
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csproj.CoreCompileInputs.cache
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cache
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cs
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfoInputs.cache
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfo.cs
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorTargetAssemblyInfo.cache
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+E:\Develop\pvduong\SME1\GIT\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.deps.json
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.json
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.dev.json
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csprojAssemblyReference.cache
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csproj.CoreCompileInputs.cache
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cache
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cs
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfoInputs.cache
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfo.cs
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorTargetAssemblyInfo.cache
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+C:\Users\vvkiet\Desktop\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.deps.json
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.json
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.dev.json
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csproj.CoreCompileInputs.cache
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cache
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cs
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfoInputs.cache
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfo.cs
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorTargetAssemblyInfo.cache
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+E:\NNANH\SourceCode\MISA.SME.AZURE\MISASMECloud\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csprojAssemblyReference.cache
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.deps.json
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.json
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.dev.json
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csproj.CoreCompileInputs.cache
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cache
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cs
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfoInputs.cache
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfo.cs
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorTargetAssemblyInfo.cache
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+E:\NVTuan\SME\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Debug\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csprojAssemblyReference.cache

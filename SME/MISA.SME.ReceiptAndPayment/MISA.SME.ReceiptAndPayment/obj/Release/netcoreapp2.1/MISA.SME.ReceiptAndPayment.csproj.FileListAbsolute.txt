@@ -1,0 +1,14 @@
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.deps.json
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.json
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.runtimeconfig.dev.json
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\bin\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csprojAssemblyReference.cache
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.csproj.CoreCompileInputs.cache
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cache
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorAssemblyInfo.cs
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfoInputs.cache
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.AssemblyInfo.cs
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.RazorTargetAssemblyInfo.cache
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.dll
+E:\Develop\pvduong\SME1\GIT\New folder\MISA.SME.ReceiptAndPayment\MISA.SME.ReceiptAndPayment\obj\Release\netcoreapp2.1\MISA.SME.ReceiptAndPayment.pdb
